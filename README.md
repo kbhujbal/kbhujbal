@@ -60,7 +60,6 @@ I’m an avid problem solver and regularly participate in coding challenges. Her
 
 ---
 
-## 🧑‍💻 **LeetCode Stats**
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=kbhujbalUSC&theme=dark&font=baloo&extension=activity)
+[![kbhujbalUSC's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kbhujbalUSC&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate or connect. 😄
