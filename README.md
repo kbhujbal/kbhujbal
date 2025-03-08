@@ -60,9 +60,4 @@ I’m an avid problem solver and regularly participate in coding challenges. Her
 
 ---
 
-## 📈 **GitHub Stats**
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kbhujbal&show_icons=true&theme=radical)
-
----
-
 Thanks for visiting my GitHub profile! Feel free to explore my projects and reach out if you'd like to collaborate or connect. 😄
