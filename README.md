@@ -80,7 +80,7 @@ I’m passionate about research in **AI** and **ML**, with published papers and 
 
 ## 💻 **Coding & Challenges**
 I’m an avid problem solver and regularly participate in coding challenges. Here’s my **LeetCode** profile:  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_PROFILE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kbhujbalUSC)
 
 ---
 
