@@ -2,7 +2,7 @@
 
 # Hi, I'm Kunal Bhujbal 👋
 
-I'm a **Master of Science in Computer Science** student at the **University of Southern California (USC)**. I love building scalable software solutions, solving real-world problems through code, and exploring the fascinating world of **Artificial Intelligence (AI)** and **Machine Learning (ML)**. When I'm not coding, you'll find me participating in hackathons, solving algorithmic challenges on **LeetCode**, or diving into research papers.
+I'm a **Master of Science (MS) in Computer Science** student at the **University of Southern California (USC)**. I love building scalable software solutions, solving real-world problems through code, and exploring the fascinating world of **Artificial Intelligence (AI)** and **Machine Learning (ML)**. When I'm not coding, you'll find me participating in hackathons, solving algorithmic challenges on **LeetCode**, or diving into research papers.
 
 ---
 
