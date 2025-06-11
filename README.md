@@ -7,8 +7,10 @@ I'm a **Master of Science (MS) in Computer Science** student at the **University
 ---
 
 ## 🛠️ **What I Love to Do**
-- **Build Scalable Backend Systems:** I enjoy designing and developing robust **RESTful APIs** and **microservices** using **Java** and **Spring Boot**.
-- **AI/ML Enthusiast:** I’m passionate about **deep learning**, **information retrieval**, and building data-driven solutions.
+- **Build Scalable Backend Systems:** I enjoy designing and developing robust RESTful APIs and microservices using Java, Spring Boot, and Node.js.
+- **Full Stack Development:** I’m passionate about building modern, responsive, and performant full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js + TypeScript.
+- **SaaS Product Engineering:** I love ideating and creating SaaS platforms that solve real-world problems and deliver tangible value to users.
+- **AI/ML Enthusiast:** I’m passionate about deep learning, information retrieval, and building data-driven solutions.
 - **Problem Solver:** I regularly solve coding problems and participate in coding challenges to sharpen my skills.
 
 ---
@@ -33,6 +35,7 @@ Here are some of the technologies and tools I work with:
 
 ### **Frontend Development**
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
