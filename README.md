@@ -89,7 +89,7 @@ I’m an avid problem solver and regularly participate in coding challenges. Her
 ## 🌐 **Let's Connect**
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-bhujbal1)
 - **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://kunal-bhujbal.com/)
-- **Email:** kunalsantosh.bhujbal@usc.edu
+- **Email:** kunalbhujbal1111@gmail.com
 
 ---
 
