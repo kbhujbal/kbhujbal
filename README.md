@@ -7,7 +7,7 @@ I'm a **Master of Science (MS) in Computer Science** student at the **University
 ---
 
 ## 🛠️ **What I Love to Do**
-- **Build Scalable Backend Systems:** I enjoy designing and developing robust RESTful APIs and microservices using Java, Spring Boot, and Node.js.
+- **Build Scalable Backend Systems:** I enjoy designing and developing robust RESTful APIs and microservices using Java, Spring Boot, Node.js and Python FastAPI.
 - **Full Stack Development:** I’m passionate about building modern, responsive, and performant full-stack web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) and Next.js + TypeScript.
 - **SaaS Product Engineering:** I love ideating and creating SaaS platforms that solve real-world problems and deliver tangible value to users.
 - **AI/ML Enthusiast:** I’m passionate about deep learning, information retrieval, and building data-driven solutions.
