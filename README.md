@@ -6,11 +6,11 @@ I'm a **Master of Science (MS) in Computer Science** student at the **University
 
 ---
 <a href="https://github.com/kbhujbal/github-readme-stats">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kbhujbal&show_icons=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/kbhujbal/github-readme-stats">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbhujbal&layout=compact&theme=tokyonight" />
 </a>
 
 <br clear="all">
