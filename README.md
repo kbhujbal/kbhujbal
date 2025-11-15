@@ -5,17 +5,6 @@
 I'm a **Master of Science (MS) in Computer Science** student at the **University of Southern California (USC)**. I love building scalable software solutions, solving real-world problems through code, and exploring the fascinating world of **Artificial Intelligence (AI)** and **Machine Learning (ML)**. When I'm not coding, you'll find me participating in hackathons, solving algorithmic challenges on **LeetCode**, or diving into research papers.
 
 ---
-<a href="https://github.com/kbhujbal/github-readme-stats">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kbhujbal&show_icons=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/kbhujbal/github-readme-stats">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbhujbal&layout=compact&theme=tokyonight" />
-</a>
-
-<br clear="all">
-
----
 
 ## 🛠️ **What I Love to Do**
 - **Build Scalable Backend Systems:** I enjoy designing and developing robust RESTful APIs and microservices using Java, Spring Boot, Node.js and Python FastAPI.
