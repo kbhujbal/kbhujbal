@@ -75,7 +75,7 @@ Here are some of the technologies and tools I work with:
 ---
 
 ## 📚 **Research & Publications**
-I’m passionate about research in **AI** and **ML**, with published papers and **12 citations** on **Google Scholar**. Check out my profile here:  
+I’m passionate about research in **AI** and **ML**, with published papers and **18 citations** on **Google Scholar**. Check out my profile here:  
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_PROFILE_ID)
 
 ---
