@@ -3,12 +3,12 @@ Hi, I'm Kunal Bhujbal! 👋
 ## 🌐 Let's Connect
 <p align="left">
     <a href="https://kunal-bhujbal.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-55d93b?style=for-the-badge&logo=about.me&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portfolio-353d59?style=for-the-badge&logo=about.me&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/kunal-bhujbal1" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://scholar.google.com/citations?user=YOUR_PROFILE_ID" target="_blank">
+    <a href="https://scholar.google.com/citations?user=9vvw4voAAAAJ&hl=en" target="_blank">
         <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
     </a>
     <a href="mailto:kunalbhujbal1111@gmail.com" target="_blank">
