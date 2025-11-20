@@ -3,7 +3,7 @@ Hi, I'm Kunal Bhujbal! 👋
 ## 🌐 Let's Connect
 <p align="left">
     <a href="https://kunal-bhujbal.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-353d59?style=for-the-badge&logo=about.me&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portfolio-d4c544?style=for-the-badge&logo=about.me&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/kunal-bhujbal1" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
