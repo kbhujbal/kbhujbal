@@ -20,7 +20,7 @@ Hi, I'm Kunal Bhujbal! 👋
 
 ## 🚀 About Me & What I'm Working On
 
-I'm a **Master of Science in Computer Science** student at **USC**, specializing as a **Backend/Full-Stack Engineer** and **AI/ML Researcher**. I'm passionate about the entire product lifecycle, from ideating and engineering innovative SaaS platforms to building the scalable, data-driven solutions that power them. I love solving real-world problems with code and exploring the frontiers of AI.
+I'm a **Master of Science in Computer Science** **USC** graduate, specializing as a **Backend/Full-Stack Engineer** and **AI/ML Researcher**. I'm passionate about the entire product lifecycle, from ideating and engineering innovative SaaS platforms to building the scalable, data-driven solutions that power them. I love solving real-world problems with code and exploring the frontiers of AI.
 
 🔭 **Core Focus:**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Designing robust RESTful APIs & microservices (Java Spring Boot, Node.js)
