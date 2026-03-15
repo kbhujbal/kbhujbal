@@ -39,4 +39,3 @@ I'm a **Master of Science in Computer Science** **USC** graduate, specializing a
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Avid problem solver. [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kbhujbalUSC)
 
 ---
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbhujbal&show_icons=true&theme=radical&include_all_commits=true)
