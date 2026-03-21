@@ -34,8 +34,8 @@ I'm a **Master of Science in Computer Science** **USC** graduate, specializing a
 
 📚 **Research:**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Actively publishing in AI/ML (18 citations).
-
+<!--
 💻 **Coding:**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Avid problem solver. [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kbhujbalUSC)
-
+-->
 ---
