@@ -31,7 +31,6 @@ I'm a **Master of Science in Computer Science** **USC** graduate, specializing a
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Vision Language Models & Vision Tranformer
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Deep Learning for Information Retrieval & NLP
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Cloud-Native design patterns & serverless architectures
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Container orchestration with Docker & Kubernetes
 
 📚 **Research:**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&bull; Actively publishing in AI/ML (18 citations).
