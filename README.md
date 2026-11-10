@@ -5,13 +5,13 @@ Hi, I'm Kunal Bhujbal! 👋
     <a href="https://kunal-bhujbal.com/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-d4c544?style=for-the-badge&logo=about.me&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/kunal-bhujbal1" target="_blank">
+    <a href="https://www.linkedin.com/in/kunal-bhujbal" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://scholar.google.com/citations?user=9vvw4voAAAAJ&hl=en" target="_blank">
         <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
     </a>
-    <a href="mailto:kunalbhujbal1111@gmail.com" target="_blank">
+    <a href="mailto:kunalbhujbal41035@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
